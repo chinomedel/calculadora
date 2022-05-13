@@ -23,11 +23,11 @@ Integrantes:
 
 Nombre del proyecto
     Sprint Módulo 2: "Yo Quiero Otro Mundo”
-
+El proyecto consiste en la creación de una calculadora funcional, con operaciones matemáticas básicas como la suma, resta, multiplicación y división. 
 ***
 ### 3. Ejecución y Configuración del Proyecto <a name="Ejecución-y-Configuración-del-Proyecto"></a>
 
-El proyecto consiste en la creación de una calculadora funcional, con operaciones matemáticas básicas como la suma, resta, multiplicación y división. A través de la ejecución de los diferentes botones se pueden realizar los cálculos deseados.En JS se hizo lo siguiente:
+A través de la ejecución de los diferentes botones se pueden realizar los cálculos deseados.En JS se hizo lo siguiente:
 
 
      function valor(val) {
