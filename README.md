@@ -5,7 +5,7 @@
 3. [Ejecución y Configuración del Proyect](#Ejecución-y-Configuración-del-Proyecto)
 
 ***
-# 1. Integrantes del Equipo
+ 1. Integrantes del Equipo
 
 Equipo 2: Tiene Sueño el Piero
 
@@ -15,9 +15,11 @@ Integrantes:
 - Nelson Medel Bustamante https://github.com/chinomedel/calculadora
 - Sebastian Muñoz Zamora https://github.com/SebMunz/calculadora
 ***
-2. Información General
+ 2. Información General
 
-Nombre del proyecto    Sprint Módulo 2: "Yo Quiero Otro Mundo”
+Nombre del proyecto
+    Sprint Módulo 2: "Yo Quiero Otro Mundo”
+
 El proyecto consiste en la creación de una calculadora funcional, con operaciones matemáticas básicas como la suma, resta, multiplicación y división. A través de la ejecución de los diferentes botones se pueden realizar los cálculos deseados.
 ***
 3. Ejecución y Configuración del Proyecto
@@ -32,8 +34,6 @@ En JS se hizo lo siguiente:
 Lo que esto hace es crear la función llamada valor con el parámetro val.
 Va hacia el Id 'resultado' (en este caso, la caja de resultado) y lee su valor, agregando = al mismo y retornando el parámetro
 
---
-
     function resuelve() {
      let x = document.getElementById('resultado').value
      let y = eval(x);
@@ -46,8 +46,6 @@ Se crea la función resuelve
 Otorga a x el valor que contiene la id 'resultado'
 Otorga a y el valor de la evaluación de x
 Luego se dirige a 'resultado' y retorna y
-
---
 
      function limpiar() {
       document.getElementById('resultado').value = ''
