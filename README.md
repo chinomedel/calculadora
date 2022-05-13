@@ -2,7 +2,7 @@
 ## Tabla de contenidos
 1. [Integrantes del Equipo](#Integrantes-del-Equipo)
 2. [Información General](#Información-General)
-3. [Ejecución y Configuración del Proyect](#Ejecución-y-Configuración-del-Proyecto)
+3. [Ejecución y Configuración del Proyecto](#Ejecución-y-Configuración-del-Proyecto)
 
 ***
  1. Integrantes del Equipo
@@ -15,7 +15,7 @@ Integrantes:
 - Nelson Medel Bustamante https://github.com/chinomedel/calculadora
 - Sebastian Muñoz Zamora https://github.com/SebMunz/calculadora
 ***
- 2. Información General
+### 2. Información General
 
 Nombre del proyecto
     Sprint Módulo 2: "Yo Quiero Otro Mundo”
