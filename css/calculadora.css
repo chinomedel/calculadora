@@ -1,0 +1,41 @@
+
+.h1{
+    text-align: center;
+}
+.contenedorCalculadora{
+    margin: 30px auto;
+    padding: 20px;
+    background: linear-gradient(90deg, rgba(11,102,145,1) 0%, rgba(2,0,36,1) 45%, rgb(11, 102, 145) 100%);
+    border-radius: 20px;
+    width: 340px;
+    box-shadow: -10px 10px 10px #888888;
+}
+.botones, .limpia{
+    width:22%;
+    height: 45px;
+}
+.limpia{
+    position: relative;
+    top:-3px;
+    right: -5px;
+}
+.pantalla{
+    height: 60px;
+    position: relative;
+    left: 5px;
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { 
+    .botones, .limpia{
+        width:40px;
+        height: 40px;
+    }
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) { 
+    .botones, .limpia{
+        width:60px;
+        height: 60px;
+    }
+ }
