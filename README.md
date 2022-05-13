@@ -19,7 +19,7 @@ Integrantes:
 - Sebastian Muñoz Zamora  https://github.com/SebMunz/calculadora
 
 ***
-### 2. Información General <a name="Información General"></a>
+### 2. Información General <a name="Información-General"></a>
 
 Nombre del proyecto
     Sprint Módulo 2: "Yo Quiero Otro Mundo”
