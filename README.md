@@ -1,5 +1,5 @@
 ***
-## Table of Contents
+## Tabla of Contenidos
 1. [Integrantes del Equipo](#Integrantes-del-Equipo)
 2. [Información General](#Información-General)
 3. [Ejecutar Calculadora](#Ejecutar-Calculadora)
@@ -11,7 +11,7 @@
 Equipo 2: Tiene Sueño el Piero
 
 Integrantes:
-- Miguel Lucero Gatica
+- Miguel Lucero Gatica 
 - Pamela Correa Barrea
 - Nelson Medel Bustamante
 - Sebastian Muñoz Zamora
@@ -20,7 +20,7 @@ Integrantes:
 
 Nombre del proyecto    Sprint Módulo 2: "Yo Quiero Otro Mundo”
 
-en JS se hizo lo siguiente:
+El proyecto consiste en la creación de una calculadora funcional, con operaciones matemáticas básicas como la suma, resta, multiplicación y división. A través de la ejecución de los diferentes botones se pueden realizar los cálculos deseados.En JS se hizo lo siguiente:
 
 //  function valor(val) {
 //      document.getElementById('resultado').value += val
