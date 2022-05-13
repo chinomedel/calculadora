@@ -20,6 +20,8 @@ Integrantes:
 
 Nombre del proyecto    Sprint Módulo 2: "Yo Quiero Otro Mundo”
 
+Información General: El proyecto consiste en la creación de una calculadora funcional, con operaciones matemáticas básicas como la suma, resta, multiplicación y división. A través de la ejecución de los diferentes botones se pueden realizar los cálculos deseados.
+
 en JS se hizo lo siguiente:
 
 //  function valor(val) {
