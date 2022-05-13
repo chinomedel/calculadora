@@ -54,4 +54,4 @@ Luego se dirige a 'resultado' y retorna y
 Es la función para limpiar el cuadro
 Se dirige al valor de la id 'result' y lo reemplaza por texto vacio
 ***
-Se realizó un prograa simple y sencillo para realizar calculos mediante una pagina html.
+Se realizó un programa simple y sencillo para realizar calculos mediante una pagina html.
