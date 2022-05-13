@@ -19,8 +19,6 @@ function resuelve(){
 
 }
 
-/*This function is called when the user clicks on the C or the clear button. */
-
 function limpia(){
 
     document.getElementById('resultado').value = ''
