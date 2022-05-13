@@ -1,11 +1,11 @@
 ***
-## Table of Contents
+## Tabla de contenidos
 1. [Integrantes del Equipo](#Integrantes-del-Equipo)
 2. [Información General](#Información-General)
 3. [Ejecución y Configuración del Proyect](#Ejecución-y-Configuración-del-Proyecto)
 
 ***
-1. Integrantes del Equipo
+# 1. Integrantes del Equipo
 
 Equipo 2: Tiene Sueño el Piero
 
@@ -24,23 +24,23 @@ El proyecto consiste en la creación de una calculadora funcional, con operacion
 
 En JS se hizo lo siguiente:
 
-  function valor(val) {
-      document.getElementById('resultado').value += val
-      return val
-  }
+    function valor(val) {
+    document.getElementById('resultado').value += val
+    return val
+    }
 
 Lo que esto hace es crear la función llamada valor con el parámetro val.
 Va hacia el Id 'resultado' (en este caso, la caja de resultado) y lee su valor, agregando = al mismo y retornando el parámetro
 
 --
 
- function resuelve() {
+    function resuelve() {
      let x = document.getElementById('resultado').value
      let y = eval(x);
       document.getElementById('resultado').value = y
       return y
-  }
-
+     }
+  
 Esta función resuelve lo que encuentra en el Id 'resultado'.
 Se crea la función resuelve
 Otorga a x el valor que contiene la id 'resultado'
@@ -49,9 +49,9 @@ Luego se dirige a 'resultado' y retorna y
 
 --
 
-  function limpiar() {
+     function limpiar() {
       document.getElementById('resultado').value = ''
-  }
+    }
 
 Es la función para limpiar el cuadro
 Se dirige al valor de la id 'result' y lo reemplaza por texto vacio
