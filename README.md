@@ -1,5 +1,5 @@
 ***
-## Tabla of Contenidos
+## Tabla de contenidos
 1. [Integrantes del Equipo](#Integrantes-del-Equipo)
 2. [Información General](#Información-General)
 3. [Ejecutar Calculadora](#Ejecutar-Calculadora)
