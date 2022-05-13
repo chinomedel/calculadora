@@ -5,7 +5,7 @@
 3. [Ejecución y Configuración del Proyecto](#Ejecución-y-Configuración-del-Proyecto)
 
 ***
-### 1. Integrantes del Equipo
+### 1. Integrantes del Equipo <a name="Integrantes-del-Equipo"></a>
 
 Equipo 2: Tiene Sueño el Piero
 
@@ -22,7 +22,7 @@ Nombre del proyecto
 
 El proyecto consiste en la creación de una calculadora funcional, con operaciones matemáticas básicas como la suma, resta, multiplicación y división. A través de la ejecución de los diferentes botones se pueden realizar los cálculos deseados.
 ***
-3. Ejecución y Configuración del Proyecto
+3. Ejecución y Configuración del Proyecto <a name="Ejecución-y-Configuración-del-Proyecto"></a>
 
 En JS se hizo lo siguiente:
 
