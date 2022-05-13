@@ -5,7 +5,7 @@
 3. [Ejecución y Configuración del Proyecto](#Ejecución-y-Configuración-del-Proyecto)
 
 ***
-### 1. Integrantes del Equipo
+ 1. Integrantes del Equipo
 
 Equipo 2: Tiene Sueño el Piero
 
@@ -15,7 +15,7 @@ Integrantes:
 - Nelson Medel Bustamante https://github.com/chinomedel/calculadora
 - Sebastian Muñoz Zamora https://github.com/SebMunz/calculadora
 ***
-### 2. Información General <a name="Información-General"></a>
+### 2. Información General
 
 Nombre del proyecto
     Sprint Módulo 2: "Yo Quiero Otro Mundo”
@@ -54,3 +54,4 @@ Luego se dirige a 'resultado' y retorna y
 Es la función para limpiar el cuadro
 Se dirige al valor de la id 'result' y lo reemplaza por texto vacio
 ***
+Se realizó un prograa simple y sencillo para realizar calculos mediante una pagina html.
