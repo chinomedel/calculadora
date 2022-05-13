@@ -51,7 +51,7 @@ Luego se dirige a 'resultado' y retorna y
 
   function limpiar() {
       document.getElementById('resultado').value = ''
-}
+  }
 
 Es la función para limpiar el cuadro
 Se dirige al valor de la id 'result' y lo reemplaza por texto vacio
