@@ -10,10 +10,10 @@
 Equipo 2: Tiene Sueño el Piero
 
 Integrantes:
-Miguel Lucero Gatica https://github.com/miguellucero123/calculadora
-Pamela Correa Barrera https://github.com/Pame-b182/calculadora.frontend
-Nelson Medel Bustamante https://github.com/chinomedel/calculadora
-Sebastian Muñoz Zamora https://github.com/SebMunz/calculadora
+-Miguel Lucero Gatica https://github.com/miguellucero123/calculadora
+-Pamela Correa Barrera https://github.com/Pame-b182/calculadora.frontend
+-Nelson Medel Bustamante https://github.com/chinomedel/calculadora
+-Sebastian Muñoz Zamora https://github.com/SebMunz/calculadora
 ***
 2. Información General
 
