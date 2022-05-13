@@ -22,22 +22,22 @@ Nombre del proyecto    Sprint Módulo 2: "Yo Quiero Otro Mundo”
 
 en JS se hizo lo siguiente:
 
-function valor(val) {
-    document.getElementById('resultado').value += val
-    return val
-}
+    function valor(val) {
+        document.getElementById('resultado').value += val
+        return val
+    }
 
 Lo que esto hace es crear la función llamada valor con el parámetro val.
 Va hacia el Id 'resultado' (en este caso, la caja de resultado) y lee su valor, agregando = al mismo y retornando el parámetro
 
 --
 
-function resuelve() {
-    let x = document.getElementById('resultado').value
-    let y = eval(x);
-    document.getElementById('resultado').value = y
-    return y
-}
+    function resuelve() {
+        let x = document.getElementById('resultado').value
+        let y = eval(x);
+        document.getElementById('resultado').value = y
+        return y
+    }
 
 Esta función resuelve lo que encuentra en el Id 'resultado'.
 Se crea la función resuelve
